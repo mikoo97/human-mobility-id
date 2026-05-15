@@ -1,0 +1,19 @@
+name: sei-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - folium
+  - streamlit
+  - jupyter
+  - requests
+  - pip
+  - pip:
+    - streamlit-folium
+    - mapclassify
+    - pyogrio

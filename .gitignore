@@ -1,0 +1,18 @@
+# Data raw (jangan dicommit)
+data/raw/
+data/spatial/raw/
+
+# Izinkan processed data kecil
+!data/processed/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
