@@ -4,7 +4,3 @@ numpy
 plotly
 scipy
 geopandas
-shapely
-fiona
-pyproj
-mapclassify
