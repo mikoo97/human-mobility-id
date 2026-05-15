@@ -1,2 +1,10 @@
-plotly 
-scipy 
+streamlit
+pandas
+numpy
+plotly
+scipy
+geopandas
+shapely
+fiona
+pyproj
+mapclassify
